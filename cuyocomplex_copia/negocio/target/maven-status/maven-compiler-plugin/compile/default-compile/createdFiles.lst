@@ -1,0 +1,6 @@
+mx\cuyocorp\delegate\DelegateUnidadAprendizaje.class
+mx\cuyocorp\facade\FacadeProfesor.class
+mx\cuyocorp\integracion\ServiceFacadeLocator.class
+test\test.class
+mx\cuyocorp\delegate\DelegateProfesor.class
+mx\cuyocorp\facade\FacadeUnidadAprendizaje.class
