@@ -1,0 +1,7 @@
+mx\cuyocorp\persistencia\AbstractDAO.class
+mx\cuyocorp\DAO\ProfesorDAO.class
+mx\cuyocorp\persistencia\InterfaceDAO.class
+mx\cuyocorp\DAO\UnidadAprendizajeDAO.class
+mx\cuyocorp\integracion\ServiceLocator.class
+mx\cuyocorp\persistencia\HibernateUtil.class
+test\test.class
